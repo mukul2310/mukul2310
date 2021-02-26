@@ -20,11 +20,15 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/mukul2310/mukul2310">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul2310&hide=html&layout=comact" alt="Mukul" />
-</a>
-<a href="https://github.com/mukul2310/mukul2310">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukul2310&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Mukul's GitHub Stats"/>
 </a>
+<br>
+<br>
+<br>
+<a href="https://github.com/mukul2310/mukul2310">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul2310&hide=html&layout=comact" alt="Mukul" />
+</a>
+
 
 [3.2]: https://raw.githubusercontent.com/mukul2310/mukul2310/master/linkedin-3-16.png 
 
