@@ -29,6 +29,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul2310&hide=html&layout=comact" alt="Mukul" />
 </a>
 
+##  Connect with Me 😇
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul2310/)    [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mukulagrawaly2k)    [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mukul_agrawal_/)
 
 [3.2]: https://raw.githubusercontent.com/mukul2310/mukul2310/master/linkedin-3-16.png 
 
