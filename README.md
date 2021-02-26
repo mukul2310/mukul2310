@@ -1,3 +1,4 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=vidhi-mody&color=blue)
 ![](https://komarev.com/ghpvc/?username=mukul2310&color=blue)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
