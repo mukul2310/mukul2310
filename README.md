@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+My name is Mukul Agrawal and I'm a student/open source enthusiast/programmer. I'm from Indian :flag_india: 
+You can find me on [![LinkedIn][3.2]][3].
 <!--
 **mukul2310/mukul2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
+
+[3]: https://www.linkedin.com/in/heinz-martin/
