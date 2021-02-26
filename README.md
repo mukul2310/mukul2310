@@ -2,7 +2,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Mukul Agrawal and I'm a student/open source enthusiast/programmer. I'm from India 🇮🇳 currently pursuing Master of Business Administration in Technology from NMIMS, Mumbai majors in Computer Engineering.
-You can find me on [![LinkedIn][3.2]][3].
 <!--
 **mukul2310/mukul2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,11 +31,3 @@ Here are some ideas to get you started:
 ##  Connect with Me 😇
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul2310/)    [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mukulagrawaly2k)    [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mukul_agrawal_/)
-
-[3.2]: https://raw.githubusercontent.com/mukul2310/mukul2310/master/linkedin-3-16.png 
-
-[3]: https://www.linkedin.com/in/mukul2310/
-
-[4]: https://raw.githubusercontent.com//mukul2310/mukul2310/master/indian_flag.png
-
-[5]: https://raw.githubusercontent.com//mukul2310/mukul2310/master/india_flag.jpg
