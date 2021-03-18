@@ -7,7 +7,7 @@ My name is Mukul Agrawal and I'm a student/open source enthusiast/programmer. I'
 ## GitHub Trophies 🏆
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=mukul2310&hide_border=true&no-bg=true&no-frame=true&margin-w=15&title=Joined2018"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mukul2310&hide_border=true&no-bg=true&no-frame=true&margin-w=15&title=Joined,Stars,Followers,Issues,Commmit,PullRequest,Repositories"/>
   </a>
 </p>
 <br/>
