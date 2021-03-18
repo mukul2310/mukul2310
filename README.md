@@ -6,17 +6,19 @@ My name is Mukul Agrawal and I'm a student/open source enthusiast/programmer. I'
 <!--
 **mukul2310/mukul2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=mukul2310&theme=gruvbox"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukul2310&theme=dark&hide_border=true"/>
+</p>
+<br/>  
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/mukul2310/mukul2310">
