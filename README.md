@@ -4,7 +4,7 @@
 
 My name is Mukul Agrawal and I'm a student/open source enthusiast/programmer. I'm from India 🇮🇳 currently pursuing Master of Business Administration in Technology from NMIMS, Mumbai majors in Computer Engineering.
 <br/>
-## &#x1f4c8; GitHub Trophies 🏆
+## GitHub Trophies 🏆
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=mukul2310&theme=gruvbox"/>
@@ -13,11 +13,11 @@ My name is Mukul Agrawal and I'm a student/open source enthusiast/programmer. I'
 
 <p align="center">
   <a>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukul2310&theme=dark&hide_border=true"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukul2310&hide_border=true"/>
 </p>
 <br/>  
 
-## &#x1f4c8; GitHub Stats📈
+##  GitHub Stats📈
 
 <a href="https://github.com/mukul2310/mukul2310">
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukul2310&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Mukul's GitHub Stats"/>-->
