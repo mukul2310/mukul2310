@@ -3,10 +3,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Mukul Agrawal and I'm a student/open source enthusiast/programmer. I'm from India 🇮🇳 currently pursuing Master of Business Administration in Technology from NMIMS, Mumbai majors in Computer Engineering.
-<!--
-**mukul2310/mukul2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
+<br/>
+## &#x1f4c8; GitHub Trophies 🏆
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=mukul2310&theme=gruvbox"/>
@@ -19,7 +17,7 @@ My name is Mukul Agrawal and I'm a student/open source enthusiast/programmer. I'
 </p>
 <br/>  
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats📈
 
 <a href="https://github.com/mukul2310/mukul2310">
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukul2310&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Mukul's GitHub Stats"/>-->
