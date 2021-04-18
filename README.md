@@ -1,5 +1,5 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=mukul2310&color=blue)
-![](https://komarev.com/ghpvc/?username=mukul2310&color=blue)
+<!--![](https://visitor-badge.laobi.icu/badge?page_id=mukul2310&color=blue)-->
+![](https://komarev.com/ghpvc/?username=mukul2310&color=lightgrey&style=flat&label=Profile+Views)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Mukul Agrawal and I'm a student/open source enthusiast/programmer. I'm from India 🇮🇳 currently pursuing Master of Business Administration in Technology from NMIMS, Mumbai majors in Computer Engineering.
