@@ -28,8 +28,8 @@ My name is Mukul Agrawal and I'm a student/open source enthusiast/programmer. I'
 <br>
 <a href="https://github.com/mukul2310/mukul2310">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul2310&hide=html&layout=comact" alt="Mukul" />
-  
 </a>
+ (https://activity-graph.herokuapp.com/graph?username=mukul2310&theme=xcode)
 
 ##  Connect with Me 😇
 
