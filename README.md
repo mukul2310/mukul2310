@@ -1,5 +1,5 @@
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=mukul2310&color=blue)-->
-![](https://komarev.com/ghpvc/?username=mukul2310&color=lightgrey&style=flat&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=mukul2310&color=blue&style=flat&label=Profile+Views)
 # Hello, folks! 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving!"> -->
 
