@@ -6,7 +6,7 @@
 I'm from India 🇮🇳 currently pursuing Master of Business Administration in Technology.<br>
 I am a product enthusiast.<br>
 I am a developer.<br>
-Building something to make life of humans better.<br>
+Building something to make human life better.<br>
 <br/>
 ## GitHub Trophies 🏆
 <p align="center">
