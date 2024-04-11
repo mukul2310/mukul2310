@@ -9,7 +9,7 @@
 <br> <br>
 2. <a href="https://urlly.cyclic.app/" target="_blank"> <b> Urlly </b></a> - Create custom URL and view analytics!
 <br> <br>
-3. <a href="https://play.google.com/store/apps/details?id=com.ma.whatsappopener/" target="_blank"> <b> Click to Chat WAPP </b></a>- Android app which allows you to open WhatsApp chats without even saving them in contacts.
+3. <a href="https://play.google.com/store/apps/details?id=com.ma.whatsappopener" target="_blank"> <b> Click to Chat WAPP </b></a>- Android app which allows you to open WhatsApp chats without even saving them in contacts.
 <br> <br>
 
 Building something to make human life better.<br>
