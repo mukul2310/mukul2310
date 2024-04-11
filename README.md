@@ -3,9 +3,24 @@
 # Hello, folks! 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving!"> -->
 
-I'm from India 🇮🇳 currently pursuing Master of Business Administration in Technology.<br>
-I am a product enthusiast.<br>
-I am a developer.<br>
+<h3> Let me walk you through my work! </h3>
+
+1. CPU Scheduling Algorithm Visualizer - App for understanding CPU Algorithms in operating systems <a href="https://mukul2310.github.io/cpu-scheduler-visualiser/" target="_blank">
+    View CPU Algorithm Visualizer!
+  </a>     
+  <a href="https://medium.com/@mukulagrawaly2k/cpu-scheduling-algorithms-visualiser-9dcc0ca76b54" target="_blank">
+    Guide to understand visualizer!
+  </a>
+<br> <br>
+2. Urlly - A Unique URL shortener <a href="https://urlly.cyclic.app/" target="_blank">
+    View Urlly!
+  </a>
+<br> <br>
+3. Click to Chat WAPP - Android app for opening whatsapp chats without saving the contact <a href="https://play.google.com/store/apps/details?id=com.ma.whatsappopener/" target="_blank">
+    View App on Play Store!
+  </a>
+<br> <br>
+
 Building something to make human life better.<br>
 <br/>
 ## GitHub Trophies 🏆
