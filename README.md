@@ -6,9 +6,6 @@
 <h3> Let me walk you through my work! </h3>
 
 1. <a href="https://mukul2310.github.io/cpu-scheduler-visualiser/" target="_blank"> <b> CPU Scheduling Algorithm Visualizer </b> </a> - Web app for understanding CPU scheduling algorithms with the help of visualization.
-  <a href="https://medium.com/@mukulagrawaly2k/cpu-scheduling-algorithms-visualiser-9dcc0ca76b54" target="_blank">
-    View Guide here
-  </a>
 <br> <br>
 2. <a href="https://urlly.cyclic.app/" target="_blank"> <b> Urlly </b></a> - Create custom URL and view analytics!
 <br> <br>
