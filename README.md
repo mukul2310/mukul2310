@@ -5,20 +5,14 @@
 
 <h3> Let me walk you through my work! </h3>
 
-1. CPU Scheduling Algorithm Visualizer - App for understanding CPU Algorithms in operating systems <a href="https://mukul2310.github.io/cpu-scheduler-visualiser/" target="_blank">
-    View CPU Algorithm Visualizer!
-  </a>     
+1. <a href="https://mukul2310.github.io/cpu-scheduler-visualiser/" target="_blank"> <b> CPU Scheduling Algorithm Visualizer </b> </a> - Web app for understanding CPU scheduling algorithms with the help of visualization.
   <a href="https://medium.com/@mukulagrawaly2k/cpu-scheduling-algorithms-visualiser-9dcc0ca76b54" target="_blank">
-    Guide to understand visualizer!
+    View Guide here
   </a>
 <br> <br>
-2. Urlly - A Unique URL shortener <a href="https://urlly.cyclic.app/" target="_blank">
-    View Urlly!
-  </a>
+2. <a href="https://urlly.cyclic.app/" target="_blank"> <b> Urlly </b></a> - Create custom URL and view analytics!
 <br> <br>
-3. Click to Chat WAPP - Android app for opening whatsapp chats without saving the contact <a href="https://play.google.com/store/apps/details?id=com.ma.whatsappopener/" target="_blank">
-    View App on Play Store!
-  </a>
+3. <a href="https://play.google.com/store/apps/details?id=com.ma.whatsappopener/" target="_blank"> <b> Click to Chat WAPP </b></a>- Android app which allows you to open WhatsApp chats without even saving them in contacts.
 <br> <br>
 
 Building something to make human life better.<br>
